@@ -53,6 +53,4 @@ public class BooksPage extends PageBase {
         return new Select(mainCategoryElement);
     }
 
-
-
 }
